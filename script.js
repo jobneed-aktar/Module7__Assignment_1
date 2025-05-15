@@ -146,3 +146,9 @@
 /*
     system__1
 */
+
+// function firstCharacter(str) {
+//    return str.charAt(0);
+// }
+// let strFirstCharter = firstCharacter("Hello");
+// console.log(strFirstCharter);
