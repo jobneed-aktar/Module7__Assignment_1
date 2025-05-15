@@ -219,3 +219,54 @@
 // }
 // let result = add(10,10);
 // console.log(result);
+
+
+
+
+// Minute to second 
+/*
+    system__1
+*/
+
+// function minuteSecond(min) {
+//     return min * 60;
+// }
+// let result = minuteSecond(2);
+// console.log(result);
+
+
+
+
+// concatination
+/*
+    system__1
+*/
+// function concat(x,y) {
+//     return x +" "+ y;
+// }
+// let result = concat("Hello","Javascript");
+// console.log(result);
+
+
+/*
+    system__2
+*/
+// function concat(x,y) {
+//     return x.concat(" "+y);
+// }
+// let result = concat("Hello","Javascript");
+// console.log(result);
+
+
+
+
+// Inclued method
+/*
+    system__1
+*/
+
+function checkStr(sentence,search) {
+    return sentence.includes(search);
+}
+let result = checkStr("What the hell are you ding man!","the");
+console.log(result);
