@@ -152,3 +152,70 @@
 // }
 // let strFirstCharter = firstCharacter("Hello");
 // console.log(strFirstCharter);
+
+
+
+
+
+// Number negative & positive check
+/*
+    system__1 using if else condition
+*/
+
+// function positiveNeg(num) {
+//     if(num>=0) {
+//         return "Positive";
+//     } else {
+//         return "Negative";
+//     }
+// }
+// let numberCheck = positiveNeg(0);
+// console.log(numberCheck);
+
+
+/*
+    system__2 using tannery operator
+*/
+
+// function positiveNeg(num) {
+//     return num>=0 ? "Positive" : "Negative";
+// }
+// let numberCheck = positiveNeg(0);
+// console.log(numberCheck);
+
+/*
+    system__3 "using switch"
+*/
+
+// function numberCheck(num) {
+//     switch(true) {
+//         case num >= 0 :
+//             return "Positive";
+//         default :
+//         return "Negative";
+//     }
+// }
+// let result = numberCheck(1);
+// console.log(result);
+
+
+
+
+
+
+// Multiply two number using regular function
+/*
+    system__1
+*/
+
+// function add(x,y) {
+//     if(typeof x !== "number") {
+//         return "1at number is not valid!";
+//     }else if(typeof y !== "number") {
+//         return "2nd number is not valid!";~
+//     } else {
+//         return x * y;
+//     }
+// }
+// let result = add(10,10);
+// console.log(result);
