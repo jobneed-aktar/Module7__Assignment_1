@@ -60,4 +60,59 @@
 
 
 
+
+
+
+
+
+
+
 // Even or Odd number checker
+/*
+    system__1  if else
+*/
+
+// function evenNumberChecker(num) {
+//     if(num % 2 === 0) {
+//         return "Even";
+//     } else {
+//         return "Odd"
+//     }
+// }
+// let evenResult = evenNumberChecker(0);
+// console.log(evenResult);
+
+
+/*
+    system__2  ternary operator
+*/
+
+// function evenNumberChecker(num) {
+//     return num % 2 === 0 ? "Even" : "Odd";
+// }
+// let evenResult = evenNumberChecker(11);
+// console.log(evenResult);
+
+
+/*
+    system__3  ternary operator
+*/
+
+// function evenNumberChecker(num) {
+//     return num % 2 === 0 ? "Even" : "Odd";
+// }
+// let evenResult = evenNumberChecker(11);
+// console.log(evenResult);
+
+
+
+
+
+
+
+
+
+// celsius to fahrenheit
+/*
+    system__1
+*/
