@@ -116,3 +116,8 @@
 /*
     system__1
 */
+function celsiusToFahrenheit(celsius) {
+    return result = (celsius * 9/5) + 32;
+}
+let fahrenheit = celsiusToFahrenheit(0);
+console.log(`${fahrenheit} Fahrenheit`);
