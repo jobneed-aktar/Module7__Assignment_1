@@ -116,8 +116,33 @@
 /*
     system__1
 */
-function celsiusToFahrenheit(celsius) {
-    return result = (celsius * 9/5) + 32;
-}
-let fahrenheit = celsiusToFahrenheit(0);
-console.log(`${fahrenheit} Fahrenheit`);
+
+// function celsiusToFahrenheit(celsius) {
+//     return result = (celsius * 9/5) + 32;
+// }
+// let fahrenheit = celsiusToFahrenheit(0);
+// console.log(`${fahrenheit} Fahrenheit`);
+
+
+
+
+
+
+// square of number
+/*
+    system__1
+*/
+
+// function square(num) {
+//     return  num * num;
+// }
+// let result = square(5);
+// console.log(result);
+
+
+
+
+// First character of a string
+/*
+    system__1
+*/
